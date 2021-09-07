@@ -1,5 +1,5 @@
 MacFSEvents==0.4
-PyYAML==3.11
+PyYAML==4.2b1
 colorama==0.3.3
 contextlib2==0.4.0
 mock==1.0.1
