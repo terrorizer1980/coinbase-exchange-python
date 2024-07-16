@@ -14,3 +14,4 @@ sniffer==0.3.4
 vcrpy==1.2.0
 wrapt==1.10.2
 wsgiref==0.1.2
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
